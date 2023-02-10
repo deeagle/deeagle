@@ -1,7 +1,7 @@
 ### Hi, I'm deeagle 👋
 
-- 🔭 I'm currently working as project lead and DevOps for digital projects within an academic library
-- 🌱 I’m currently learning GOlang and IoT gardening
+- 🔭 I'm currently working as software developer and DevOps for digital projects within a public open science institute
+- 🌱 I’m currently learning k8s, GOlang and IoT gardening
 - :heart_eyes: I like automation, bash and linux
 - ⚡ Fun fact: "If your process has Excel, it's broken!"
 
